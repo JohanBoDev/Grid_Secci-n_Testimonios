@@ -7,6 +7,7 @@ En este proyecto, he implementado una sección de testimonios que utiliza la pro
 
 ## Capturas de Pantalla
 
+https://github.com/JohanBoDev/Grid_Secci-n_Testimonios/blob/main/Captura%20de%20pantalla%20(21).png
 
 
 ## Tecnologías Utilizadas
